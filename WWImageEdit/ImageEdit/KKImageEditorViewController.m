@@ -33,6 +33,10 @@
     return self;
 }
 
+- (void)xplTest{
+    
+}
+
 - (instancetype)init
 {
     self = [self initWithNibName:nil bundle:nil];
